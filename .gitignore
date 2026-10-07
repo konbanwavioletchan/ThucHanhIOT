@@ -1,0 +1,8 @@
+.env
+.pio/
+.venv/
+__pycache__/
+influx-data/
+tools/
+output/*.csv
+docker-influx.env
